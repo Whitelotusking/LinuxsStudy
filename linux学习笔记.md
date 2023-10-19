@@ -86,9 +86,11 @@ command [-options][parameter]
 ## which、find命令、通配符、find命令按文件大小查找
 ### which命令
 - 定义：查找对应命令所在的路径
-### 
+###  find命令
+- 按文件名查找，类似windwos在此电脑中的搜索
+- 语法：find 起始路径 -name ""
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc4Nzc0MzcsLTExNjE3NjUwMywtMj
+eyJoaXN0b3J5IjpbLTEzNjU5Mjg2MDgsLTExNjE3NjUwMywtMj
 A3MzIwODM4NCw3OTMwOTk3OTksLTYwNTM4NDg0MSw2MjkxNDQ1
 ODddfQ==
 -->
