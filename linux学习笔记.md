@@ -61,9 +61,10 @@ command [-options][parameter]
 -语法：cat Linux路径
  可以按q键退出，按空格键翻页
  ## cp、mv、rm命令
-### cp命令 
+### cp命令
+- 定义
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDE5MDgxNiwtNjA1Mzg0ODQxLDYyOT
-E0NDU4N119
+eyJoaXN0b3J5IjpbLTIwMTc5MDA1MTYsLTYwNTM4NDg0MSw2Mj
+kxNDQ1ODddfQ==
 -->
