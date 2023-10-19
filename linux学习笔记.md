@@ -83,10 +83,12 @@ command [-options][parameter]
 - *test匹配以test结尾的内容
 - *test *表示匹配任何包含test的内容 
 - 别用-rf参数，不然要寄的
-## which
-### which
+## which、find命令、通配符、find命令按文件大小查找
+### which命令
+- 定义：查找对应命令所在的路径
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDM1MjIxOCwtMTE2MTc2NTAzLC0yMD
-czMjA4Mzg0LDc5MzA5OTc5OSwtNjA1Mzg0ODQxLDYyOTE0NDU4
-N119
+eyJoaXN0b3J5IjpbLTE1NTc4Nzc0MzcsLTExNjE3NjUwMywtMj
+A3MzIwODM4NCw3OTMwOTk3OTksLTYwNTM4NDg0MSw2MjkxNDQ1
+ODddfQ==
 -->
