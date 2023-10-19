@@ -92,9 +92,12 @@ command [-options][parameter]
 - **按文件大小查找**
 - 语法 find 起始路径 -size +| - n[KMG]
 -  +-表示大于和小于,n表示数字大小，KMG是大小单位
-
+## grep命令
+- 定义：
+- 语法 grep [-n] 关键字 文件路径
+- 选项n,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMTY2NDIxLC0xMDYwMjM0NTAyLC0xMT
-YxNzY1MDMsLTIwNzMyMDgzODQsNzkzMDk5Nzk5LC02MDUzODQ4
-NDEsNjI5MTQ0NTg3XX0=
+eyJoaXN0b3J5IjpbLTcxOTU3NjQ3NSw4MzExNjY0MjEsLTEwNj
+AyMzQ1MDIsLTExNjE3NjUwMywtMjA3MzIwODM4NCw3OTMwOTk3
+OTksLTYwNTM4NDg0MSw2MjkxNDQ1ODddfQ==
 -->
