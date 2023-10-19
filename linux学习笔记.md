@@ -74,10 +74,11 @@ command [-options][parameter]
 - 语法：mv 参数1 参数2
 注意这里如果没有目标目录则会相当于改名
 ### rm命令
-定义：可以用于文件夹的删除
-语法：rm [-r -f] 参数可以无限多
-
+- 定义：可以用于文件夹的删除
+- 语法：rm [-r -f] 参数可以无限多
+- 参数表示要删除的文件或者文件夹路径，按照空格去隔开
+- -r 选项用于文件夹的删除，-f表示强制删除
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMDk5Nzk5LC02MDUzODQ4NDEsNjI5MT
-Q0NTg3XX0=
+eyJoaXN0b3J5IjpbLTEzNDM3OTgyNjYsNzkzMDk5Nzk5LC02MD
+UzODQ4NDEsNjI5MTQ0NTg3XX0=
 -->
