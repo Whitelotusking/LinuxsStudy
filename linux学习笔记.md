@@ -87,13 +87,14 @@ command [-options][parameter]
 ### which命令
 - 定义：查找对应命令所在的路径
 ###  find命令
-- 按文件名查找，类似windwos在此电脑中的搜索
+- **按文件名查找**，类似windwos在此电脑中的搜索
 - 语法：find 起始路径 -name "被查找文件名"，为了确保能在整个系统完成搜索，可以切换到root用户获取管理员权限
-- 按文件大小查找
+- **按文件大小查找**
 - 语法 find 起始路径 -size +| - n[KMG]
 -  +-表示大于和小于,n表示数字大小，KMG是大小单位
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzU5ODgwOSwtMTA2MDIzNDUwMiwtMT
-E2MTc2NTAzLC0yMDczMjA4Mzg0LDc5MzA5OTc5OSwtNjA1Mzg0
-ODQxLDYyOTE0NDU4N119
+eyJoaXN0b3J5IjpbODMxMTY2NDIxLC0xMDYwMjM0NTAyLC0xMT
+YxNzY1MDMsLTIwNzMyMDgzODQsNzkzMDk5Nzk5LC02MDUzODQ4
+NDEsNjI5MTQ0NTg3XX0=
 -->
