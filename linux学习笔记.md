@@ -63,9 +63,13 @@ command [-options][parameter]
  ## cp、mv、rm命令
 ### cp命令
 - 定义cp [-r] 参数1 参数2
-- 参数1 2分别表示要复制的be
+- 参数1 2分别表示要复制的文件，要被复制到的地方以及叫什么名字
+- r是用于复制文件夹的情况
+
+> cp -r 文件夹名 要改的名字
+> cp 文件夹名 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2OTM4NTc1LC02MDUzODQ4NDEsNjI5MT
+eyJoaXN0b3J5IjpbNTU3NjQyMTE5LC02MDUzODQ4NDEsNjI5MT
 Q0NTg3XX0=
 -->
