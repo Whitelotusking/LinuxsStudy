@@ -50,7 +50,7 @@ command [-options][parameter]
 - 这里的- p选项可以创建多级目录，比如要创建/good/test 的test文件但是没有good文件，这时候- p就可以实现创建good然后再创建test
 ## touch、cat、more命令
 ### touch命令
-- touch创建文件夹
+- touch创建文件
 - 语法：touch Linux路径
 - 定义：创建文件（不是文件夹）
 ### cat命令
@@ -67,9 +67,10 @@ command [-options][parameter]
 - r是用于复制文件夹的情况
 
 > cp -r 文件夹名 要改的名字
-> cp 文件夹名 
+> cp 文件名 要改的名字
+> 注意：如果只有名字的话表示在当前的目录下去复制
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3NjQyMTE5LC02MDUzODQ4NDEsNjI5MT
-Q0NTg3XX0=
+eyJoaXN0b3J5IjpbMTAwMzg2NjI2NiwtNjA1Mzg0ODQxLDYyOT
+E0NDU4N119
 -->
