@@ -88,9 +88,10 @@ command [-options][parameter]
 - 定义：查找对应命令所在的路径
 ###  find命令
 - 按文件名查找，类似windwos在此电脑中的搜索
-- 语法：find 起始路径 -name "被查找文件名"
+- 语法：find 起始路径 -name "被查找文件名"，为了确保能在整个系统完成搜索，可以切换到root用户获取管理员权限
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODQyMTI4NiwtMTE2MTc2NTAzLC0yMD
-czMjA4Mzg0LDc5MzA5OTc5OSwtNjA1Mzg0ODQxLDYyOTE0NDU4
-N119
+eyJoaXN0b3J5IjpbLTEwNjAyMzQ1MDIsLTExNjE3NjUwMywtMj
+A3MzIwODM4NCw3OTMwOTk3OTksLTYwNTM4NDg0MSw2MjkxNDQ1
+ODddfQ==
 -->
