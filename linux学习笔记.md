@@ -94,7 +94,7 @@ command [-options][parameter]
 -  +-表示大于和小于,n表示数字大小，KMG是大小单位
 ## grep命令
 ### grep命令
-- 定义：
+- 定义：过滤文件的关键字
 - 语法 grep [-n] 关键字 文件路径
 - 选项n,可以显示过滤关键字所在的行号
 - 关键字表示过滤的关键字
@@ -108,8 +108,9 @@ command [-options][parameter]
 - -w,统计单词数量
 ### 管道符
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTgyNTU2OCw4MzExNjY0MjEsLTEwNj
-AyMzQ1MDIsLTExNjE3NjUwMywtMjA3MzIwODM4NCw3OTMwOTk3
-OTksLTYwNTM4NDg0MSw2MjkxNDQ1ODddfQ==
+eyJoaXN0b3J5IjpbNDc1MTc4OTg2LDgzMTE2NjQyMSwtMTA2MD
+IzNDUwMiwtMTE2MTc2NTAzLC0yMDczMjA4Mzg0LDc5MzA5OTc5
+OSwtNjA1Mzg0ODQxLDYyOTE0NDU4N119
 -->
