@@ -60,9 +60,10 @@ command [-options][parameter]
 -定义：查看文件，可以将内容多的文件用翻页形式去看
 -语法：cat Linux路径
  可以按q键退出，按空格键翻页
- ## cp、mv、rm
+ ## cp、mv、rm命令
+### cp命令 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODA5MjI5NCwtNjA1Mzg0ODQxLDYyOT
+eyJoaXN0b3J5IjpbMTIxMDE5MDgxNiwtNjA1Mzg0ODQxLDYyOT
 E0NDU4N119
 -->
