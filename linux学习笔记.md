@@ -105,9 +105,11 @@ command [-options][parameter]
 - -c,统计bytes数量
 - -m,统计字符数量
 - -l,统计行数
-- 
+- -w,统计单词数量
+### 管道符
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTM5NzQwLDgzMTE2NjQyMSwtMTA2MD
-IzNDUwMiwtMTE2MTc2NTAzLC0yMDczMjA4Mzg0LDc5MzA5OTc5
-OSwtNjA1Mzg0ODQxLDYyOTE0NDU4N119
+eyJoaXN0b3J5IjpbLTQyMTgyNTU2OCw4MzExNjY0MjEsLTEwNj
+AyMzQ1MDIsLTExNjE3NjUwMywtMjA3MzIwODM4NCw3OTMwOTk3
+OTksLTYwNTM4NDg0MSw2MjkxNDQ1ODddfQ==
 -->
