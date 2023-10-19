@@ -69,8 +69,11 @@ command [-options][parameter]
 > cp -r 文件夹名 要改的名字
 > cp 文件名 要改的名字
 > 注意：如果只有名字的话表示在当前的目录下去复制
+### mv命令
+-定义：移动文件或者文件夹到目标地址
+-语法：mv 参数1 参数2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzg2NjI2NiwtNjA1Mzg0ODQxLDYyOT
+eyJoaXN0b3J5IjpbMTY3NzY2MDEzOCwtNjA1Mzg0ODQxLDYyOT
 E0NDU4N119
 -->
