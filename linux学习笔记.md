@@ -70,10 +70,14 @@ command [-options][parameter]
 > cp 文件名 要改的名字
 > 注意：如果只有名字的话表示在当前的目录下去复制
 ### mv命令
--定义：移动文件或者文件夹到目标地址
--语法：mv 参数1 参数2
+- 定义：移动文件或者文件夹到目标地址
+- 语法：mv 参数1 参数2
+注意这里如果没有目标目录则会相当于改名
+### rm命令
+定义：可以用于文件夹的删除
+语法：rm [-r -f] 参数可以无限多
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzY2MDEzOCwtNjA1Mzg0ODQxLDYyOT
-E0NDU4N119
+eyJoaXN0b3J5IjpbNzkzMDk5Nzk5LC02MDUzODQ4NDEsNjI5MT
+Q0NTg3XX0=
 -->
