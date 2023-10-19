@@ -82,7 +82,9 @@ command [-options][parameter]
 - test*匹配以test开头的内容
 - *test匹配以test结尾的内容
 - *test *表示匹配任何包含test的内容 
+- 别用-rf参数，不然要寄的
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMyMDgzODQsNzkzMDk5Nzk5LC02MD
-UzODQ4NDEsNjI5MTQ0NTg3XX0=
+eyJoaXN0b3J5IjpbLTExNjE3NjUwMywtMjA3MzIwODM4NCw3OT
+MwOTk3OTksLTYwNTM4NDg0MSw2MjkxNDQ1ODddfQ==
 -->
