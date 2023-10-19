@@ -99,9 +99,15 @@ command [-options][parameter]
 - 选项n,可以显示过滤关键字所在的行号
 - 关键字表示过滤的关键字
 - 文件路径表示要过滤文件的路径
-### 命令
+### wc命令
+- 定义：统计文件的行数，单词数量等
+- 语法：wc [-c -m -l -w] 文件路径
+- -c,统计bytes数量
+- -m,统计字符数量
+- -l,统计行数
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDcxNDI2NjIsODMxMTY2NDIxLC0xMD
-YwMjM0NTAyLC0xMTYxNzY1MDMsLTIwNzMyMDgzODQsNzkzMDk5
-Nzk5LC02MDUzODQ4NDEsNjI5MTQ0NTg3XX0=
+eyJoaXN0b3J5IjpbMTM3NTM5NzQwLDgzMTE2NjQyMSwtMTA2MD
+IzNDUwMiwtMTE2MTc2NTAzLC0yMDczMjA4Mzg0LDc5MzA5OTc5
+OSwtNjA1Mzg0ODQxLDYyOTE0NDU4N119
 -->
