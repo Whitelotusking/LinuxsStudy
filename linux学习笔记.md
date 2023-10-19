@@ -78,8 +78,11 @@ command [-options][parameter]
 - 语法：rm [-r -f] 参数可以无限多
 - 参数表示要删除的文件或者文件夹路径，按照空格去隔开
 - -r 选项用于文件夹的删除，-f表示强制删
-- *通配符，rm是支持通配符的，
+- *通配符，rm是支持通配符的
+- test*匹配以test开头的内容
+- *test匹配以test结尾的内容
+- *test *表示匹配任何包含test的内容 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzYzMjczLDc5MzA5OTc5OSwtNjA1Mz
-g0ODQxLDYyOTE0NDU4N119
+eyJoaXN0b3J5IjpbLTExMTU5MzY3ODUsNzkzMDk5Nzk5LC02MD
+UzODQ4NDEsNjI5MTQ0NTg3XX0=
 -->
