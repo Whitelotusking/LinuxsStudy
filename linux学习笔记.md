@@ -93,11 +93,15 @@ command [-options][parameter]
 - 语法 find 起始路径 -size +| - n[KMG]
 -  +-表示大于和小于,n表示数字大小，KMG是大小单位
 ## grep命令
+### grep命令
 - 定义：
 - 语法 grep [-n] 关键字 文件路径
 - 选项n,可以显示过滤关键字所在的行号
+- 关键字表示过滤的关键字
+- 文件路径表示要过滤文件的路径
+### 命令
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg4NjUzNjUsODMxMTY2NDIxLC0xMD
+eyJoaXN0b3J5IjpbLTExNDcxNDI2NjIsODMxMTY2NDIxLC0xMD
 YwMjM0NTAyLC0xMTYxNzY1MDMsLTIwNzMyMDgzODQsNzkzMDk5
 Nzk5LC02MDUzODQ4NDEsNjI5MTQ0NTg3XX0=
 -->
