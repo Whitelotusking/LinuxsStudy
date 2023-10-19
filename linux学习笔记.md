@@ -95,9 +95,9 @@ command [-options][parameter]
 ## grep命令
 - 定义：
 - 语法 grep [-n] 关键字 文件路径
-- 选项n,
+- 选项n,可以显示过滤关键字所在的行号
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTU3NjQ3NSw4MzExNjY0MjEsLTEwNj
-AyMzQ1MDIsLTExNjE3NjUwMywtMjA3MzIwODM4NCw3OTMwOTk3
-OTksLTYwNTM4NDg0MSw2MjkxNDQ1ODddfQ==
+eyJoaXN0b3J5IjpbLTEyOTg4NjUzNjUsODMxMTY2NDIxLC0xMD
+YwMjM0NTAyLC0xMTYxNzY1MDMsLTIwNzMyMDgzODQsNzkzMDk5
+Nzk5LC02MDUzODQ4NDEsNjI5MTQ0NTg3XX0=
 -->
