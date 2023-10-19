@@ -109,10 +109,10 @@ command [-options][parameter]
 ### 管道符
 定义：左边的输出作为右边的输入
 语法：命令 | 命令
-但是y
+**但是要求左边的命令有内容的输出**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwNDgyMjQ5LDgzMTE2NjQyMSwtMTA2MD
+eyJoaXN0b3J5IjpbMjU0MzQ0MDkzLDgzMTE2NjQyMSwtMTA2MD
 IzNDUwMiwtMTE2MTc2NTAzLC0yMDczMjA4Mzg0LDc5MzA5OTc5
 OSwtNjA1Mzg0ODQxLDYyOTE0NDU4N119
 -->
