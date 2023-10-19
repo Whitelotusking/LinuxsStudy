@@ -62,9 +62,10 @@ command [-options][parameter]
  可以按q键退出，按空格键翻页
  ## cp、mv、rm命令
 ### cp命令
-- 定义
+- 定义cp [-r] 参数1 参数2
+- 参数1 2分别表示要复制的be
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc5MDA1MTYsLTYwNTM4NDg0MSw2Mj
-kxNDQ1ODddfQ==
+eyJoaXN0b3J5IjpbNzE2OTM4NTc1LC02MDUzODQ4NDEsNjI5MT
+Q0NTg3XX0=
 -->
