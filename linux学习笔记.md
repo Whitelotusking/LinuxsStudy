@@ -98,7 +98,7 @@ command [-options][parameter]
 - 语法 grep [-n] 关键字 文件路径
 - 选项n,可以显示过滤关键字所在的行号
 - 关键字表示过滤的关键字
-- 文件路径表示要过滤文件的路径
+- 文件路径表示要过滤文件的路径，如果不填的话可以作为管道符的输入路径
 ### wc命令
 - 定义：统计文件的行数，单词数量等
 - 语法：wc [-c -m -l -w] 文件路径
@@ -107,10 +107,12 @@ command [-options][parameter]
 - -l,统计行数
 - -w,统计单词数量
 ### 管道符
-
+定义：左边的输出作为右边的输入
+语法：命令 | 命令
+但是y
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MTc4OTg2LDgzMTE2NjQyMSwtMTA2MD
+eyJoaXN0b3J5IjpbNDMwNDgyMjQ5LDgzMTE2NjQyMSwtMTA2MD
 IzNDUwMiwtMTE2MTc2NTAzLC0yMDczMjA4Mzg0LDc5MzA5OTc5
 OSwtNjA1Mzg0ODQxLDYyOTE0NDU4N119
 -->
