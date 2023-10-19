@@ -89,9 +89,10 @@ command [-options][parameter]
 ###  find命令
 - 按文件名查找，类似windwos在此电脑中的搜索
 - 语法：find 起始路径 -name "被查找文件名"，为了确保能在整个系统完成搜索，可以切换到root用户获取管理员权限
-- 
+- 按文件大小查找
+- 语法 find 起始路径 -size +| -n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjAyMzQ1MDIsLTExNjE3NjUwMywtMj
-A3MzIwODM4NCw3OTMwOTk3OTksLTYwNTM4NDg0MSw2MjkxNDQ1
-ODddfQ==
+eyJoaXN0b3J5IjpbLTIwOTc1NzMwODIsLTEwNjAyMzQ1MDIsLT
+ExNjE3NjUwMywtMjA3MzIwODM4NCw3OTMwOTk3OTksLTYwNTM4
+NDg0MSw2MjkxNDQ1ODddfQ==
 -->
