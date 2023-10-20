@@ -156,12 +156,12 @@ command [-options][parameter]
 > 1.chown root hello.txt，将hello.txt所属用户组修改为root
 > 2.chown :root hello.txt，将hello.txt所属用户组修改为root
 > 3.chown root:用户 hello.txt，将hello.txt所属的用户修改到root，用户组改为itheima
-> 
+> 注意：丢给Root的时候可能会没有权限，这时候要切换到root的时候去修改
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3ODMxNzU1LC0xMjM2MzYwNTcyLC0xMz
-I1NzAwMDMwLC0xNDM1NzQ1MDQ0LC0xODgzNjE1NTkxLDE5OTA5
-NjI5NDUsLTkwMDM5NjY1LC0xMTcyMjE3Njg5LDI1NDM0NDA5My
-w4MzExNjY0MjEsLTEwNjAyMzQ1MDIsLTExNjE3NjUwMywtMjA3
-MzIwODM4NCw3OTMwOTk3OTksLTYwNTM4NDg0MSw2MjkxNDQ1OD
-ddfQ==
+eyJoaXN0b3J5IjpbMTQwNjk3MDMzNCwtMTIzNjM2MDU3MiwtMT
+MyNTcwMDAzMCwtMTQzNTc0NTA0NCwtMTg4MzYxNTU5MSwxOTkw
+OTYyOTQ1LC05MDAzOTY2NSwtMTE3MjIxNzY4OSwyNTQzNDQwOT
+MsODMxMTY2NDIxLC0xMDYwMjM0NTAyLC0xMTYxNzY1MDMsLTIw
+NzMyMDgzODQsNzkzMDk5Nzk5LC02MDUzODQ4NDEsNjI5MTQ0NT
+g3XX0=
 -->
