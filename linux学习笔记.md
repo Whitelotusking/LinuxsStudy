@@ -150,11 +150,14 @@ command [-options][parameter]
 ## chown命令
 - 定义：chmod命令是无法去修改属于其他用户或者组的文件的，必须进入root模式才可以,但是chown命令可以做到把文件的用户或者组换到别的组或者用户
 - 语法：chown [-R] 用户：用户组 文件或文件夹
-> ：的作用
+> ：的作用是分割开用户和用户组
+> 实例：
+> 1.chown root hello.txt，将hello.txt所属用户组修改为root
+> 2.chown :root hello.txt，将hello.txt所属用户组修改为root
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTQ3ODY5NywtMTMyNTcwMDAzMCwtMT
-QzNTc0NTA0NCwtMTg4MzYxNTU5MSwxOTkwOTYyOTQ1LC05MDAz
-OTY2NSwtMTE3MjIxNzY4OSwyNTQzNDQwOTMsODMxMTY2NDIxLC
-0xMDYwMjM0NTAyLC0xMTYxNzY1MDMsLTIwNzMyMDgzODQsNzkz
-MDk5Nzk5LC02MDUzODQ4NDEsNjI5MTQ0NTg3XX0=
+eyJoaXN0b3J5IjpbLTEyMzYzNjA1NzIsLTEzMjU3MDAwMzAsLT
+E0MzU3NDUwNDQsLTE4ODM2MTU1OTEsMTk5MDk2Mjk0NSwtOTAw
+Mzk2NjUsLTExNzIyMTc2ODksMjU0MzQ0MDkzLDgzMTE2NjQyMS
+wtMTA2MDIzNDUwMiwtMTE2MTc2NTAzLC0yMDczMjA4Mzg0LDc5
+MzA5OTc5OSwtNjA1Mzg0ODQxLDYyOTE0NDU4N119
 -->
