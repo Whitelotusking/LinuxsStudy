@@ -110,9 +110,12 @@ command [-options][parameter]
 定义：左边的输出作为右边的输入
 语法：命令 | 命令
 **但是要求左边的命令有内容的输出**
-
+## echo命令、
+### echo命令
+- 定义：在命令行输出指定内容
+- 语法：echo 输出内容,如果内容比较长内容要用“”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MzQ0MDkzLDgzMTE2NjQyMSwtMTA2MD
-IzNDUwMiwtMTE2MTc2NTAzLC0yMDczMjA4Mzg0LDc5MzA5OTc5
-OSwtNjA1Mzg0ODQxLDYyOTE0NDU4N119
+eyJoaXN0b3J5IjpbMTY2Nzk5NTU0NywyNTQzNDQwOTMsODMxMT
+Y2NDIxLC0xMDYwMjM0NTAyLC0xMTYxNzY1MDMsLTIwNzMyMDgz
+ODQsNzkzMDk5Nzk5LC02MDUzODQ4NDEsNjI5MTQ0NTg3XX0=
 -->
