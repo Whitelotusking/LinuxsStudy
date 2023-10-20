@@ -145,11 +145,12 @@ command [-options][parameter]
 >chmod u=rwx,g=rx,o=x hello.txt
 >u表示user所属用户权限,g表示group组权限,o表示other其它用户权限
 >r w x分别表示读 写 执行权限
->
+
+- 权限的数字序号：这是指用chmod命令时修改对应的用户和组时用数字去代表rwx的组合或者去表示无权限
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzU3NDUwNDQsLTE4ODM2MTU1OTEsMT
-k5MDk2Mjk0NSwtOTAwMzk2NjUsLTExNzIyMTc2ODksMjU0MzQ0
-MDkzLDgzMTE2NjQyMSwtMTA2MDIzNDUwMiwtMTE2MTc2NTAzLC
-0yMDczMjA4Mzg0LDc5MzA5OTc5OSwtNjA1Mzg0ODQxLDYyOTE0
-NDU4N119
+eyJoaXN0b3J5IjpbLTEzMjU3MDAwMzAsLTE0MzU3NDUwNDQsLT
+E4ODM2MTU1OTEsMTk5MDk2Mjk0NSwtOTAwMzk2NjUsLTExNzIy
+MTc2ODksMjU0MzQ0MDkzLDgzMTE2NjQyMSwtMTA2MDIzNDUwMi
+wtMTE2MTc2NTAzLC0yMDczMjA4Mzg0LDc5MzA5OTc5OSwtNjA1
+Mzg0ODQxLDYyOTE0NDU4N119
 -->
