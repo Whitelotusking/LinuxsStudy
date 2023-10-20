@@ -140,11 +140,14 @@ command [-options][parameter]
 ## chmod命令
 - 定义：修改文件、文件夹的权限信息，**只有文件或者文件夹的所属用户或者root用户可以使用chmod命令去修改权限信息**
 - 语法：chmod [-R] 权限 文件或文件夹
-- 选项-R，对文件夹内的quan
+- 选项-R，对文件夹内的全部内容应用同样的操作
+>示例：
+>chmod u=rwx,g=rx,o=x hello.txt
+>u表示user
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjcwNjI2NSwtMTg4MzYxNTU5MSwxOT
-kwOTYyOTQ1LC05MDAzOTY2NSwtMTE3MjIxNzY4OSwyNTQzNDQw
-OTMsODMxMTY2NDIxLC0xMDYwMjM0NTAyLC0xMTYxNzY1MDMsLT
-IwNzMyMDgzODQsNzkzMDk5Nzk5LC02MDUzODQ4NDEsNjI5MTQ0
-NTg3XX0=
+eyJoaXN0b3J5IjpbODIxNTk4NzUsLTE4ODM2MTU1OTEsMTk5MD
+k2Mjk0NSwtOTAwMzk2NjUsLTExNzIyMTc2ODksMjU0MzQ0MDkz
+LDgzMTE2NjQyMSwtMTA2MDIzNDUwMiwtMTE2MTc2NTAzLC0yMD
+czMjA4Mzg0LDc5MzA5OTc5OSwtNjA1Mzg0ODQxLDYyOTE0NDU4
+N119
 -->
