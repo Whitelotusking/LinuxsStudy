@@ -133,10 +133,13 @@ command [-options][parameter]
 - sudo命令，可以避免长期使用root命令带来系统损坏，可以为普通命令授权临时用root身份去执行
 - 语法：sudo 其它命令
 - **但是必须要去配置sudo认证**
+> 
+> su - root
+> 用户名 ALL=(ALL) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDM5NjY1LC0xMTcyMjE3Njg5LDI1ND
-M0NDA5Myw4MzExNjY0MjEsLTEwNjAyMzQ1MDIsLTExNjE3NjUw
-MywtMjA3MzIwODM4NCw3OTMwOTk3OTksLTYwNTM4NDg0MSw2Mj
-kxNDQ1ODddfQ==
+eyJoaXN0b3J5IjpbMTIyMjAwMjM4OCwtOTAwMzk2NjUsLTExNz
+IyMTc2ODksMjU0MzQ0MDkzLDgzMTE2NjQyMSwtMTA2MDIzNDUw
+MiwtMTE2MTc2NTAzLC0yMDczMjA4Mzg0LDc5MzA5OTc5OSwtNj
+A1Mzg0ODQxLDYyOTE0NDU4N119
 -->
