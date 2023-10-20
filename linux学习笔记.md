@@ -120,9 +120,12 @@ command [-options][parameter]
 ### 重定向符
 - \>将左边的命令结果覆盖写到右边的文件中
 - \>>将左边的命令结果追加写到右边的文件中
-###
+### tail命令
+- 定义：查看文件尾部内容，跟踪文件的最新更改
+- -f表示持续跟踪
+- -num
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODA1ODc3MiwyNTQzNDQwOTMsODMxMT
+eyJoaXN0b3J5IjpbLTI5MTA4OTkyNiwyNTQzNDQwOTMsODMxMT
 Y2NDIxLC0xMDYwMjM0NTAyLC0xMTYxNzY1MDMsLTIwNzMyMDgz
 ODQsNzkzMDk5Nzk5LC02MDUzODQ4NDEsNjI5MTQ0NTg3XX0=
 -->
