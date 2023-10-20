@@ -125,9 +125,9 @@ command [-options][parameter]
 - -f表示持续跟踪
 - -num，这里的num是数字代表看尾部的多少行
 - 语法：tail [-f -num] Linux路径
-- ctlr+c键可以推出tail命令的gen'zong'zhuang
+- ctlr+c键可以推出tail命令的跟踪状态
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTkzNzQ3NCwyNTQzNDQwOTMsODMxMT
-Y2NDIxLC0xMDYwMjM0NTAyLC0xMTYxNzY1MDMsLTIwNzMyMDgz
-ODQsNzkzMDk5Nzk5LC02MDUzODQ4NDEsNjI5MTQ0NTg3XX0=
+eyJoaXN0b3J5IjpbLTExNzIyMTc2ODksMjU0MzQ0MDkzLDgzMT
+E2NjQyMSwtMTA2MDIzNDUwMiwtMTE2MTc2NTAzLC0yMDczMjA4
+Mzg0LDc5MzA5OTc5OSwtNjA1Mzg0ODQxLDYyOTE0NDU4N119
 -->
