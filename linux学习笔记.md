@@ -123,9 +123,11 @@ command [-options][parameter]
 ### tail命令
 - 定义：查看文件尾部内容，跟踪文件的最新更改
 - -f表示持续跟踪
-- -num
+- -num，这里的num是数字代表看尾部的多少行
+- 语法：tail [-f -num] Linux路径
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTA4OTkyNiwyNTQzNDQwOTMsODMxMT
+eyJoaXN0b3J5IjpbMTg1NjgwMDQ4MywyNTQzNDQwOTMsODMxMT
 Y2NDIxLC0xMDYwMjM0NTAyLC0xMTYxNzY1MDMsLTIwNzMyMDgz
 ODQsNzkzMDk5Nzk5LC02MDUzODQ4NDEsNjI5MTQ0NTg3XX0=
 -->
