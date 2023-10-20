@@ -128,10 +128,11 @@ command [-options][parameter]
 - ctlr+c键可以推出tail命令的跟踪状态
 # Linux用户和权限
 - 定义：root用户拥有最大的系统操作权限
-- 语法：su - root
+- 语法：su - root切换到root用户
+- e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgyNzE3MTgsLTExNzIyMTc2ODksMj
-U0MzQ0MDkzLDgzMTE2NjQyMSwtMTA2MDIzNDUwMiwtMTE2MTc2
-NTAzLC0yMDczMjA4Mzg0LDc5MzA5OTc5OSwtNjA1Mzg0ODQxLD
-YyOTE0NDU4N119
+eyJoaXN0b3J5IjpbMTc4NzI1ODE3NiwtMTE3MjIxNzY4OSwyNT
+QzNDQwOTMsODMxMTY2NDIxLC0xMDYwMjM0NTAyLC0xMTYxNzY1
+MDMsLTIwNzMyMDgzODQsNzkzMDk5Nzk5LC02MDUzODQ4NDEsNj
+I5MTQ0NTg3XX0=
 -->
