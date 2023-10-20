@@ -137,11 +137,14 @@ command [-options][parameter]
 > su - root
 > 用户名 ALL=(ALL) NOPASSWORD:ALL在认证文件中最后一行加上
 > 这表示给普通用户所有命令的权限，并且不需要密码
-##chm
+## chmod命令
+- 定义：修改文件、文件夹的权限信息，**只有文件或者文件夹的所属用户或者root用户可以使用chmod命令去修改权限信息**
+- 语法：chmod [-R] 权限 文件或文件夹
+- 选项-R，对文件夹内的quan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM5MzU3MjUsLTE4ODM2MTU1OTEsMT
-k5MDk2Mjk0NSwtOTAwMzk2NjUsLTExNzIyMTc2ODksMjU0MzQ0
-MDkzLDgzMTE2NjQyMSwtMTA2MDIzNDUwMiwtMTE2MTc2NTAzLC
-0yMDczMjA4Mzg0LDc5MzA5OTc5OSwtNjA1Mzg0ODQxLDYyOTE0
-NDU4N119
+eyJoaXN0b3J5IjpbMTk2MjcwNjI2NSwtMTg4MzYxNTU5MSwxOT
+kwOTYyOTQ1LC05MDAzOTY2NSwtMTE3MjIxNzY4OSwyNTQzNDQw
+OTMsODMxMTY2NDIxLC0xMDYwMjM0NTAyLC0xMTYxNzY1MDMsLT
+IwNzMyMDgzODQsNzkzMDk5Nzk5LC02MDUzODQ4NDEsNjI5MTQ0
+NTg3XX0=
 -->
