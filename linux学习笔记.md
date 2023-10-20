@@ -148,12 +148,13 @@ command [-options][parameter]
 
 - 权限的数字序号：这是指用chmod命令时修改对应的用户和组时用数字去代表rwx的组合或者去表示无权限
 ## chown命令
-- 定义：chmod命令是无法去修改属于其他用户或者组的文件的，必须进入root模式才可以,但是chown命令可以做到把文件的组换到
-- 
+- 定义：chmod命令是无法去修改属于其他用户或者组的文件的，必须进入root模式才可以,但是chown命令可以做到把文件的用户或者组换到别的组或者用户
+- 语法：chown [-R] 用户：用户组 文件或文件夹
+> ：的作用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzMjIwNzEzLC0xMzI1NzAwMDMwLC0xND
-M1NzQ1MDQ0LC0xODgzNjE1NTkxLDE5OTA5NjI5NDUsLTkwMDM5
-NjY1LC0xMTcyMjE3Njg5LDI1NDM0NDA5Myw4MzExNjY0MjEsLT
-EwNjAyMzQ1MDIsLTExNjE3NjUwMywtMjA3MzIwODM4NCw3OTMw
-OTk3OTksLTYwNTM4NDg0MSw2MjkxNDQ1ODddfQ==
+eyJoaXN0b3J5IjpbMTc5NTQ3ODY5NywtMTMyNTcwMDAzMCwtMT
+QzNTc0NTA0NCwtMTg4MzYxNTU5MSwxOTkwOTYyOTQ1LC05MDAz
+OTY2NSwtMTE3MjIxNzY4OSwyNTQzNDQwOTMsODMxMTY2NDIxLC
+0xMDYwMjM0NTAyLC0xMTYxNzY1MDMsLTIwNzMyMDgzODQsNzkz
+MDk5Nzk5LC02MDUzODQ4NDEsNjI5MTQ0NTg3XX0=
 -->
