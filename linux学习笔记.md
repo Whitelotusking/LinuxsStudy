@@ -129,9 +129,10 @@ command [-options][parameter]
 # Linux用户和权限
 - 定义：root用户拥有最大的系统操作权限
 - 语法：su - root切换到root用户
-- e
+- exit可以退出到普通用户
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzI1ODE3NiwtMTE3MjIxNzY4OSwyNT
+eyJoaXN0b3J5IjpbMTk0NTY5ODkwMiwtMTE3MjIxNzY4OSwyNT
 QzNDQwOTMsODMxMTY2NDIxLC0xMDYwMjM0NTAyLC0xMTYxNzY1
 MDMsLTIwNzMyMDgzODQsNzkzMDk5Nzk5LC02MDUzODQ4NDEsNj
 I5MTQ0NTg3XX0=
