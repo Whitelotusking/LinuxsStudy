@@ -137,10 +137,11 @@ command [-options][parameter]
 > su - root
 > 用户名 ALL=(ALL) NOPASSWORD:ALL在认证文件中最后一行加上
 > 这表示给普通用户所有命令的权限，并且不需要密码
+## 查看L
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM2MTU1OTEsLTkwMDM5NjY1LC0xMT
-cyMjE3Njg5LDI1NDM0NDA5Myw4MzExNjY0MjEsLTEwNjAyMzQ1
-MDIsLTExNjE3NjUwMywtMjA3MzIwODM4NCw3OTMwOTk3OTksLT
-YwNTM4NDg0MSw2MjkxNDQ1ODddfQ==
+eyJoaXN0b3J5IjpbMTk5MDk2Mjk0NSwtOTAwMzk2NjUsLTExNz
+IyMTc2ODksMjU0MzQ0MDkzLDgzMTE2NjQyMSwtMTA2MDIzNDUw
+MiwtMTE2MTc2NTAzLC0yMDczMjA4Mzg0LDc5MzA5OTc5OSwtNj
+A1Mzg0ODQxLDYyOTE0NDU4N119
 -->
