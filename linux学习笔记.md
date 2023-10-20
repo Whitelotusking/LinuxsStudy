@@ -143,11 +143,13 @@ command [-options][parameter]
 - 选项-R，对文件夹内的全部内容应用同样的操作
 >示例：
 >chmod u=rwx,g=rx,o=x hello.txt
->u表示user
+>u表示user所属用户权限,g表示group组权限,o表示other其它用户权限
+>r w x分别表示读 写 执行权限
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNTk4NzUsLTE4ODM2MTU1OTEsMTk5MD
-k2Mjk0NSwtOTAwMzk2NjUsLTExNzIyMTc2ODksMjU0MzQ0MDkz
-LDgzMTE2NjQyMSwtMTA2MDIzNDUwMiwtMTE2MTc2NTAzLC0yMD
-czMjA4Mzg0LDc5MzA5OTc5OSwtNjA1Mzg0ODQxLDYyOTE0NDU4
-N119
+eyJoaXN0b3J5IjpbLTE0MzU3NDUwNDQsLTE4ODM2MTU1OTEsMT
+k5MDk2Mjk0NSwtOTAwMzk2NjUsLTExNzIyMTc2ODksMjU0MzQ0
+MDkzLDgzMTE2NjQyMSwtMTA2MDIzNDUwMiwtMTE2MTc2NTAzLC
+0yMDczMjA4Mzg0LDc5MzA5OTc5OSwtNjA1Mzg0ODQxLDYyOTE0
+NDU4N119
 -->
