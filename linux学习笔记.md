@@ -126,8 +126,12 @@ command [-options][parameter]
 - -num，这里的num是数字代表看尾部的多少行
 - 语法：tail [-f -num] Linux路径
 - ctlr+c键可以推出tail命令的跟踪状态
+# Linux用户和权限
+- 定义：root用户拥有最大的系统操作权限
+- 语法：su - root
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIyMTc2ODksMjU0MzQ0MDkzLDgzMT
-E2NjQyMSwtMTA2MDIzNDUwMiwtMTE2MTc2NTAzLC0yMDczMjA4
-Mzg0LDc5MzA5OTc5OSwtNjA1Mzg0ODQxLDYyOTE0NDU4N119
+eyJoaXN0b3J5IjpbLTE2NzgyNzE3MTgsLTExNzIyMTc2ODksMj
+U0MzQ0MDkzLDgzMTE2NjQyMSwtMTA2MDIzNDUwMiwtMTE2MTc2
+NTAzLC0yMDczMjA4Mzg0LDc5MzA5OTc5OSwtNjA1Mzg0ODQxLD
+YyOTE0NDU4N119
 -->
