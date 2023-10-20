@@ -113,9 +113,10 @@ command [-options][parameter]
 ## echo命令、
 ### echo命令
 - 定义：在命令行输出指定内容
-- 语法：echo 输出内容,如果内容比较长内容要用“”
+- 语法：echo 输出内容,如果内容比较长内容要用“”包含
+### 反应号' '
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2Nzk5NTU0NywyNTQzNDQwOTMsODMxMT
+eyJoaXN0b3J5IjpbLTgzNjMwOTI3MiwyNTQzNDQwOTMsODMxMT
 Y2NDIxLC0xMDYwMjM0NTAyLC0xMTYxNzY1MDMsLTIwNzMyMDgz
 ODQsNzkzMDk5Nzk5LC02MDUzODQ4NDEsNjI5MTQ0NTg3XX0=
 -->
