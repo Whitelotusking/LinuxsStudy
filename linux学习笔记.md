@@ -130,10 +130,13 @@ command [-options][parameter]
 - 定义：root用户拥有最大的系统操作权限
 - 语法：su - root切换到root用户
 - exit可以退出到普通用户
-- sudo命令，
+- sudo命令，可以避免长期使用root命令带来系统损坏，可以为普通命令授权临时用root身份去执行
+- 语法：sudo 其它命令
+- **但是必须要去配置sudo认证**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Mzc0ODQ3MywtMTE3MjIxNzY4OSwyNT
-QzNDQwOTMsODMxMTY2NDIxLC0xMDYwMjM0NTAyLC0xMTYxNzY1
-MDMsLTIwNzMyMDgzODQsNzkzMDk5Nzk5LC02MDUzODQ4NDEsNj
-I5MTQ0NTg3XX0=
+eyJoaXN0b3J5IjpbLTkwMDM5NjY1LC0xMTcyMjE3Njg5LDI1ND
+M0NDA5Myw4MzExNjY0MjEsLTEwNjAyMzQ1MDIsLTExNjE3NjUw
+MywtMjA3MzIwODM4NCw3OTMwOTk3OTksLTYwNTM4NDg0MSw2Mj
+kxNDQ1ODddfQ==
 -->
