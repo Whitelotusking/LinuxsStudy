@@ -163,9 +163,13 @@ command [-options][parameter]
 - ctrl+d 1.退出登录的用户 2.退出特定的程序
 - history查看历史命令
 - ctrl+r 关键字 去搜索历史命令
-- 
+- ctrl+a 跳到开头
+- ctrl+e 跳到结尾
+- ctrl+键盘左键 左跳一个单词
+- ctrl+键盘右键 右跳一个单词
+- ctrl+l 清空内容
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTQ3MTA0NCw3MTAwMzkyNzcsMTQwNj
+eyJoaXN0b3J5IjpbLTQxODc0MTgxNCw3MTAwMzkyNzcsMTQwNj
 k3MDMzNCwtMTIzNjM2MDU3MiwtMTMyNTcwMDAzMCwtMTQzNTc0
 NTA0NCwtMTg4MzYxNTU5MSwxOTkwOTYyOTQ1LC05MDAzOTY2NS
 wtMTE3MjIxNzY4OSwyNTQzNDQwOTMsODMxMTY2NDIxLC0xMDYw
