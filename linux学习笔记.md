@@ -159,16 +159,16 @@ command [-options][parameter]
 > 注意：丢给Root的时候可能会没有权限，这时候要切换到root的时候去修改
 # Linux基本操作
 ## 快捷按键
-- ctrl+c强制停止
+- ctrl+c强制停止 执行中的东西强制停止
 - ctrl+d 1.退出登录的用户 2.退出特定的程序
 - history查看历史命令
 - ctrl+r 关键字 去搜索历史命令
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTc0MzksNzEwMDM5Mjc3LDE0MDY5Nz
-AzMzQsLTEyMzYzNjA1NzIsLTEzMjU3MDAwMzAsLTE0MzU3NDUw
-NDQsLTE4ODM2MTU1OTEsMTk5MDk2Mjk0NSwtOTAwMzk2NjUsLT
-ExNzIyMTc2ODksMjU0MzQ0MDkzLDgzMTE2NjQyMSwtMTA2MDIz
-NDUwMiwtMTE2MTc2NTAzLC0yMDczMjA4Mzg0LDc5MzA5OTc5OS
-wtNjA1Mzg0ODQxLDYyOTE0NDU4N119
+eyJoaXN0b3J5IjpbMjEwMTQ3MTA0NCw3MTAwMzkyNzcsMTQwNj
+k3MDMzNCwtMTIzNjM2MDU3MiwtMTMyNTcwMDAzMCwtMTQzNTc0
+NTA0NCwtMTg4MzYxNTU5MSwxOTkwOTYyOTQ1LC05MDAzOTY2NS
+wtMTE3MjIxNzY4OSwyNTQzNDQwOTMsODMxMTY2NDIxLC0xMDYw
+MjM0NTAyLC0xMTYxNzY1MDMsLTIwNzMyMDgzODQsNzkzMDk5Nz
+k5LC02MDUzODQ4NDEsNjI5MTQ0NTg3XX0=
 -->
