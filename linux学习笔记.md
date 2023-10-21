@@ -157,11 +157,15 @@ command [-options][parameter]
 > 2.chown :root hello.txt，将hello.txt所属用户组修改为root
 > 3.chown root:用户 hello.txt，将hello.txt所属的用户修改到root，用户组改为itheima
 > 注意：丢给Root的时候可能会没有权限，这时候要切换到root的时候去修改
+# Linux基本操作
+## 快捷按键
+- ctrl+c强制停止
+- ctrl+d 1.退出登录的用户 2.退出特定的程序
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjk3MDMzNCwtMTIzNjM2MDU3MiwtMT
-MyNTcwMDAzMCwtMTQzNTc0NTA0NCwtMTg4MzYxNTU5MSwxOTkw
-OTYyOTQ1LC05MDAzOTY2NSwtMTE3MjIxNzY4OSwyNTQzNDQwOT
-MsODMxMTY2NDIxLC0xMDYwMjM0NTAyLC0xMTYxNzY1MDMsLTIw
-NzMyMDgzODQsNzkzMDk5Nzk5LC02MDUzODQ4NDEsNjI5MTQ0NT
-g3XX0=
+eyJoaXN0b3J5IjpbLTE5NzM3NjYwODEsMTQwNjk3MDMzNCwtMT
+IzNjM2MDU3MiwtMTMyNTcwMDAzMCwtMTQzNTc0NTA0NCwtMTg4
+MzYxNTU5MSwxOTkwOTYyOTQ1LC05MDAzOTY2NSwtMTE3MjIxNz
+Y4OSwyNTQzNDQwOTMsODMxMTY2NDIxLC0xMDYwMjM0NTAyLC0x
+MTYxNzY1MDMsLTIwNzMyMDgzODQsNzkzMDk5Nzk5LC02MDUzOD
+Q4NDEsNjI5MTQ0NTg3XX0=
 -->
