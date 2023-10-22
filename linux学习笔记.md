@@ -173,10 +173,11 @@ command [-options][parameter]
 - rpm后缀是linux包
 - y是自动确认
 ## 软件启动
-- systemctlm命令可以管理
-- 语法：systemctl start|stop| 
+- systemctlm命令可以管理很多三方和系统内置的软件,能被管理的软件也称为服务
+- 语法：systemctl start|stop| status|enable|disable
+- 例如系统的服务：sshd（ssh远程）、
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTY0Njc0NCwtMTc0MjU4NjE3MywtND
+eyJoaXN0b3J5IjpbLTc5NDkyMTEyMSwtMTc0MjU4NjE3MywtND
 E4NzQxODE0LDcxMDAzOTI3NywxNDA2OTcwMzM0LC0xMjM2MzYw
 NTcyLC0xMzI1NzAwMDMwLC0xNDM1NzQ1MDQ0LC0xODgzNjE1NT
 kxLDE5OTA5NjI5NDUsLTkwMDM5NjY1LC0xMTcyMjE3Njg5LDI1
