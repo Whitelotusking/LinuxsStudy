@@ -176,13 +176,14 @@ command [-options][parameter]
 - systemctlm命令可以管理很多三方和系统内置的软件,能被管理的软件也称为服务
 - 语法：systemctl start|stop| status|enable|disable
 - 例如系统的服务：sshd（ssh远程连接）、network(副网络服务)、NetworkManager（主网络服务）
-
+- 不过要注意有的服务没有被systemctl管理这时候要自己添加
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3MTg5NjU4LC0xNzQyNTg2MTczLC00MT
-g3NDE4MTQsNzEwMDM5Mjc3LDE0MDY5NzAzMzQsLTEyMzYzNjA1
-NzIsLTEzMjU3MDAwMzAsLTE0MzU3NDUwNDQsLTE4ODM2MTU1OT
-EsMTk5MDk2Mjk0NSwtOTAwMzk2NjUsLTExNzIyMTc2ODksMjU0
-MzQ0MDkzLDgzMTE2NjQyMSwtMTA2MDIzNDUwMiwtMTE2MTc2NT
-AzLC0yMDczMjA4Mzg0LDc5MzA5OTc5OSwtNjA1Mzg0ODQxLDYy
-OTE0NDU4N119
+eyJoaXN0b3J5IjpbOTUxMjY4OTE0LDY0NzE4OTY1OCwtMTc0Mj
+U4NjE3MywtNDE4NzQxODE0LDcxMDAzOTI3NywxNDA2OTcwMzM0
+LC0xMjM2MzYwNTcyLC0xMzI1NzAwMDMwLC0xNDM1NzQ1MDQ0LC
+0xODgzNjE1NTkxLDE5OTA5NjI5NDUsLTkwMDM5NjY1LC0xMTcy
+MjE3Njg5LDI1NDM0NDA5Myw4MzExNjY0MjEsLTEwNjAyMzQ1MD
+IsLTExNjE3NjUwMywtMjA3MzIwODM4NCw3OTMwOTk3OTksLTYw
+NTM4NDg0MV19
 -->
