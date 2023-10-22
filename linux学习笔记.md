@@ -181,9 +181,12 @@ command [-options][parameter]
 - 本质是创建一个快捷方式到别的地方，然后在别的地方去使用
 - 语法 ln -s 参数1 参数2，-s表示创建软链接，参数1是被链接的文件或文件夹，参数2是要链接去的目的地
 - 注意：软链接必须使用绝对路径
+- ## date命令
+- 可以查看系统的时间
+- 语法 date [-d] [+字符串]，-d按照给定的字符串去显示日期
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTczMTMxNywyMzg4NzU1MzYsNjQ3MT
+eyJoaXN0b3J5IjpbLTg1MjA0MjAyMCwyMzg4NzU1MzYsNjQ3MT
 g5NjU4LC0xNzQyNTg2MTczLC00MTg3NDE4MTQsNzEwMDM5Mjc3
 LDE0MDY5NzAzMzQsLTEyMzYzNjA1NzIsLTEzMjU3MDAwMzAsLT
 E0MzU3NDUwNDQsLTE4ODM2MTU1OTEsMTk5MDk2Mjk0NSwtOTAw
