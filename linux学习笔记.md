@@ -184,13 +184,17 @@ command [-options][parameter]
 - ## date命令
 - 可以查看系统的时间
 - 语法 date [-d] [+字符串]，-d按照给定的字符串去显示日期
-- 时区修改
+- 时区修改：
+>rm -f /etc/localtime
+>sudo ln -s /usr/share/zoneinfo/Asia/Shanghai
+>ntp程序自动校准
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTYzMzk2NSwtODUyMDQyMDIwLDIzOD
-g3NTUzNiw2NDcxODk2NTgsLTE3NDI1ODYxNzMsLTQxODc0MTgx
-NCw3MTAwMzkyNzcsMTQwNjk3MDMzNCwtMTIzNjM2MDU3MiwtMT
-MyNTcwMDAzMCwtMTQzNTc0NTA0NCwtMTg4MzYxNTU5MSwxOTkw
-OTYyOTQ1LC05MDAzOTY2NSwtMTE3MjIxNzY4OSwyNTQzNDQwOT
-MsODMxMTY2NDIxLC0xMDYwMjM0NTAyLC0xMTYxNzY1MDMsLTIw
-NzMyMDgzODRdfQ==
+eyJoaXN0b3J5IjpbLTE0ODYwNzQ2OTgsLTg1MjA0MjAyMCwyMz
+g4NzU1MzYsNjQ3MTg5NjU4LC0xNzQyNTg2MTczLC00MTg3NDE4
+MTQsNzEwMDM5Mjc3LDE0MDY5NzAzMzQsLTEyMzYzNjA1NzIsLT
+EzMjU3MDAwMzAsLTE0MzU3NDUwNDQsLTE4ODM2MTU1OTEsMTk5
+MDk2Mjk0NSwtOTAwMzk2NjUsLTExNzIyMTc2ODksMjU0MzQ0MD
+kzLDgzMTE2NjQyMSwtMTA2MDIzNDUwMiwtMTE2MTc2NTAzLC0y
+MDczMjA4Mzg0XX0=
 -->
