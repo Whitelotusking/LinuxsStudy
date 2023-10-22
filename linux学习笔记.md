@@ -270,3 +270,6 @@ ntpdate -u <a href="http://ntp.aliyun.com">ntp.aliyun.com</a>，将时间校准�
 hostnamectl set-hostname 主机名，修改主机名</p>
 </blockquote>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA0MjcxNjI2NF19
+-->
