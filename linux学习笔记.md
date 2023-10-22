@@ -192,9 +192,10 @@ command [-options][parameter]
 ## IP地址和主机名
 - inet在centos中是ip地址，ens33是主网卡
 - 主机名：
->
+>hostname 查看主机名
+>hostnamectl set-hostname 主机名，修改主机名
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyOTc0MjkwLDEwMzY3NDgzMjcsMjA3OD
+eyJoaXN0b3J5IjpbLTIxMTY0Mjk4LDEwMzY3NDgzMjcsMjA3OD
 c3MTAxLC0xNDg2MDc0Njk4LC04NTIwNDIwMjAsMjM4ODc1NTM2
 LDY0NzE4OTY1OCwtMTc0MjU4NjE3MywtNDE4NzQxODE0LDcxMD
 AzOTI3NywxNDA2OTcwMzM0LC0xMjM2MzYwNTcyLC0xMzI1NzAw
