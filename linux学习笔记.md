@@ -177,13 +177,15 @@ command [-options][parameter]
 - 语法：systemctl start|stop| status|enable|disable
 - 例如系统的服务：sshd（ssh远程连接）、network(副网络服务)、NetworkManager（主网络服务）
 - 不过要注意有的服务没有被systemctl管理这时候要自己添加
-#
+## 软链接
+- 本质是创建一个快捷方式到别的地方，然后在别的地方去使用
+- 语法 ln -s 参数1 参数2，-s表示创建软链接，参数1是被链接的文件或文件夹，参数2是要链接去的目的地
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxMjY4OTE0LDY0NzE4OTY1OCwtMTc0Mj
-U4NjE3MywtNDE4NzQxODE0LDcxMDAzOTI3NywxNDA2OTcwMzM0
-LC0xMjM2MzYwNTcyLC0xMzI1NzAwMDMwLC0xNDM1NzQ1MDQ0LC
-0xODgzNjE1NTkxLDE5OTA5NjI5NDUsLTkwMDM5NjY1LC0xMTcy
-MjE3Njg5LDI1NDM0NDA5Myw4MzExNjY0MjEsLTEwNjAyMzQ1MD
-IsLTExNjE3NjUwMywtMjA3MzIwODM4NCw3OTMwOTk3OTksLTYw
-NTM4NDg0MV19
+eyJoaXN0b3J5IjpbLTQ5MzI1MDk2OCw2NDcxODk2NTgsLTE3ND
+I1ODYxNzMsLTQxODc0MTgxNCw3MTAwMzkyNzcsMTQwNjk3MDMz
+NCwtMTIzNjM2MDU3MiwtMTMyNTcwMDAzMCwtMTQzNTc0NTA0NC
+wtMTg4MzYxNTU5MSwxOTkwOTYyOTQ1LC05MDAzOTY2NSwtMTE3
+MjIxNzY4OSwyNTQzNDQwOTMsODMxMTY2NDIxLC0xMDYwMjM0NT
+AyLC0xMTYxNzY1MDMsLTIwNzMyMDgzODQsNzkzMDk5Nzk5LC02
+MDUzODQ4NDFdfQ==
 -->
